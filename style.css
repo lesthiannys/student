@@ -1,7 +1,9 @@
-:root {--branco-principal:#FFFFFF;--cinza-secundario: #C0C0C0;
+:root {--branco-principal:#FFFFFF;--cinza-principal: #C0C0C0;--botao-azul: #C0C0C0;--cor-de-fundo: #00030C;--font-pincipal:"inter";
 
 
-  
+
+
 
 
 }
+body { background-color: var(--cor-de-fundo);color: var(--branco-principal);}
